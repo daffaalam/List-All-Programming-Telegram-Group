@@ -192,9 +192,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Hackintosh
 * [HACKINTOSH](https://t.me/joinchat/AAAAAD0HCL0FkGP1Rjhi2Q)
+* [Hackintosh Indonesia](https://t.me/HackintoshIndonesia)
 
 ### MacOS
-* [Mac OS X ID](https://t.me/MacOSXID)
+* [Mac OS X ID](https://t.me/MacOSXIDGroup)
 
 ### iOS
 * [iKaskus](https://t.me/ikaskus)
