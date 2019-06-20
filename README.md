@@ -205,13 +205,13 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 * [PegelWindows](https://t.me/pegelwindows)
 
 ### Hackintosh
-* [HACKINTOSH](https://t.me/joinchat/AAAAAD0HCL0FkGP1Rjhi2Q)
+* [HACKINTOSH](https://t.me/joinchat/AmlIMT0HCL1UGfSD7arW_g)
 
 ### MacOS
-* [Mac OS X ID](https://t.me/MacOSXID)
+* [Mac OS X ID](https://t.me/MacOSXIDGroup)
 
 ### iOS
-* [iKaskus](https://t.me/ikaskus)
+* [iKaskus](https://t.me/iKaskus)
 
 ### Tentang Telegram
 * [Tentang Telegram](https://t.me/tentangtelegram)
