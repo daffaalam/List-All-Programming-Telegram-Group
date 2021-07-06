@@ -6,6 +6,12 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Programming Language
 
+- **.NET**
+
+  - [One .NET Indonesia](https://t.me/dotnetcore_id)
+  - [.NET Indonesia](https://t.me/dotnetusergroup)
+  - [Xamarin Indonesia](https://t.me/xamarinindonesia)
+
 - **Android**
 
   - [ADB (Android Developer Bandung)](https://t.me/androidDevBdg)
@@ -92,13 +98,6 @@ A list of awesome Indonesia groups related to programming language on Telegram.
   - [Kotlin Cirebon](https://t.me/kotlin_crb)
   - [Kotlin Indonesia](https://t.me/KotlinID)
 
-- **Microsoft**
-
-  - [.NETCore Indonesia](https://t.me/dotnetcore_id)
-  - [.NET Indonesia](https://t.me/dotnetusergroup)
-  - [SQL Server Indonesia](https://t.me/sqlserverid)
-  - [Xamarin Indonesia](https://t.me/xamarinindonesia)
-
 - **Pascal - Delphi**
 
   - [Delphi Indonesia](https://t.me/delphiindonesia)
@@ -150,6 +149,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### DATABASE
 
+- **Microsoft SQL Server**
+
+  - [SQL Server Indonesia](https://t.me/sqlserverid)
+
 - **MongoDB**
 
   - [MongoDB Indonesia](https://t.me/MongoDB_ID)
@@ -188,8 +191,10 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [#JuaraGCP](https://t.me/JuaraGCP)
 - [AWS User Group Indonesia](https://t.me/AWSUserGroupID)
 - [AWS Analytics User Group Indonesia](https://t.me/AWSDataUserGroupID)
+- [Azure ID](https://t.me/azureindo)
 - [GCP User Group Indonesia](https://t.me/GCPUserID)
 - [Google Cloud Platform Indonesia](https://t.me/GCP_ID)
+
 
 ### Data PlayGround
 
@@ -244,6 +249,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 - [LamonganDev](https://t.me/lamongandev)
 - [Taman Kode-Kode](https://t.me/tamankodekode)
 - [Tailwind Indonesia](https://t.me/TailwindID)
+- [Teknologi Umum](https://t.me/teknologi_umum)
 - [Tech in Asia Dev Community](https://t.me/TIAdevcommunity)
 - [UI/UX Indonesia](https://t.me/UiuxIndo)
 - [UXiD Lombok](https://t.me/uxidlombok)
@@ -329,6 +335,7 @@ A list of awesome Indonesia groups related to programming language on Telegram.
 
 ### Game Development
 
+- [Indonesian GDevelop](https://t.me/GDevelopID)
 - [Lombok Games Developers (LGD)](https://t.me/lombokgamedev)
 
 ### Startup
